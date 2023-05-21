@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\animation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\compute.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\forward.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\lighting.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\math.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\params.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\shadow.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\terrain.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\tessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\김준일\Desktop\asd\Output\utils.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

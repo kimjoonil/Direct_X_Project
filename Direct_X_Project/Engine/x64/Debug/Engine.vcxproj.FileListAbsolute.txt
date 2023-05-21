@@ -1,0 +1,15 @@
+C:\Users\김준일\Desktop\asd\Output\animation.cso
+C:\Users\김준일\Desktop\asd\Output\compute.cso
+C:\Users\김준일\Desktop\asd\Output\deferred.cso
+C:\Users\김준일\Desktop\asd\Output\forward.cso
+C:\Users\김준일\Desktop\asd\Output\lighting.cso
+C:\Users\김준일\Desktop\asd\Output\math.cso
+C:\Users\김준일\Desktop\asd\Output\params.cso
+C:\Users\김준일\Desktop\asd\Output\particle.cso
+C:\Users\김준일\Desktop\asd\Output\shadow.cso
+C:\Users\김준일\Desktop\asd\Output\skybox.cso
+C:\Users\김준일\Desktop\asd\Output\terrain.cso
+C:\Users\김준일\Desktop\asd\Output\tessellation.cso
+C:\Users\김준일\Desktop\asd\Output\utils.cso
+C:\Users\김준일\Desktop\asd\Output\Engine.pdb
+C:\Users\김준일\Desktop\asd\Engine\x64\Debug\Engine.pdb
